@@ -1,4 +1,4 @@
-# [Alura MIDI](alura-midi-nu-puce.vercel.app)
+# [Alura MIDI](https://alura-midi-nu-puce.vercel.app/)
 
 ## 🎵 Sobre o projeto:
 O alura MIDI é um teclado musical virtual desenvolvido durante o curso da Alura.
