@@ -2,26 +2,30 @@
 
 ## 🎵 Sobre o projeto:
 O alura MIDI é um teclado musical virtual desenvolvido durante o curso da Alura.
-A ideia é simples e diverida: cada tecla reproduz um som diferente, permitindo que você crie suas próprias batidas direto no navegador!
+Cada botão representa um instrumento e, ao ser clicado ou ativado via teclado, reproduz um som - permitindo criar ritmos diretamente no navegador.
 
-Esse projeto foi feito para treinar:
-📌 Manipulação de **DOM com JavaScript**
-📌 Uso de **eventos de teclado e clique**
-📌 Estruturação com **HTML5** e estilização com **CSS3**
+Este projeto foi desenvolvido com foco em praticar:
+
+- 🎯 Manipulação da **DOM com JavaScript**
+- 🎯 Eventos de **clique e teclado**
+- 🎯 Estruturação com **HTML5**
+- 🎯 Estilização com **CSS3**
 
 ---
 
 ## 🚀 Tecnologias utilizadas:
-- **HTML5**: estrutura do projeto
-- **CSS3**: estilo e responsividade
-- **JavaScript**: lógica e interação
+
+- **HTML5** - Estrutura semântica
+- **CSS3** - Estilização e responsividade
+- **JavaScript** - Lógica, eventos e interação com o usuário
 
 ---
 
 ## 🎹 Como funciona?
+
 1. Abra o projeto no navegador
-2. Clique nos botões ou use o teclado (**Enter** ou **Space**) para ativar os sons
-3. Experimente criar um ritmo só seu
+2. Clique nos botões ou aperte **Enter** / **Space** para ativar o som
+3. Combine os sons e crie seus próprios ritmos!
 
 ---
 
@@ -35,8 +39,13 @@ Esse projeto foi feito para treinar:
 # Clone o repositório
 git clone https://github.com/UelintonHJ/alura-midi.git
 
-# Entre na pasta do projeto
+# Acesse a pasta
 cd alura-midi
 
-#Abra o arquivo index.html no navegador
+# Abra o arquivo no navegador
+index.html
 ```
+
+## 📌 Status do Projeto
+
+✅ Concluído (Projeto educacional)
